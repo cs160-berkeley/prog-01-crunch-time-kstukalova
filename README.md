@@ -8,7 +8,7 @@ Ekaterina Stukalova ([katya.stukalova@berkeley.edu](mailto:katya.stukalova@berke
 
 ## Demo Video
 
-See [New Year New You ] (https://link_to_your_video)in action!
+See [New Year New You ] (https://www.youtube.com/watch?v=6Bg-xNt-6GU&feature=youtu.be)in action!
 
 ## Screenshots
 Select the number of repetitions or minutes and then select your activity:  
