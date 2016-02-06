@@ -21,7 +21,7 @@ Select your activity and then the number of repetitons or minutes:
 <img src="screenshots/5.png" height="400" alt="Screenshot"/>  
 ## Acknowledgments
 
-Skeleton code for list adapter was borrowed from: [vogella] GmbH (http://www.vogella.com/tutorials/AndroidListView/article.html)
+Skeleton code for list adapter was borrowed from: [vogella] GmbH (http://www.vogella.com/tutorials/AndroidListView/article.html)  
 Icons:  
 [Leg Lifts](http://www.freepik.com/free-icon/stick-man-lying-down-and-raising-one-leg_738261.htm)  
 [Swimming](http://uxrepo.com/icon/swimming-by-maki)  
