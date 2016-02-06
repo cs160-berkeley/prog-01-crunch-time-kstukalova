@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New Year New You</string>
+    <string name="user_input"></string>
+    <string name="reps">Reps</string>
+    <string name="minutes">Minutes</string>
+    <string name="default_val">--</string>
+</resources>
